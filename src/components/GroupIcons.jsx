@@ -12,7 +12,6 @@ const GroupIcon = ({ groups}) => {
   return (
     <div className="group-icon">
       <span>{initials}</span>
-      {/* console.log({initials}) */}
     </div>
   );
 };
